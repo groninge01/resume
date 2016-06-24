@@ -63,6 +63,7 @@ echo Handling Basic Web Site deployment.
 echo Building Resume
 call :Executecmd npm install
 IF !ERRORLEVEL! NEQ 0 goto error
+echo Testing Resume
 call :Executecmd npm test
 IF !ERRORLEVEL! NEQ 0 goto error
 
