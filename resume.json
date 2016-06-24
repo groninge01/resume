@@ -2,7 +2,7 @@
   "basics": {
     "name": "Stefan van Groningen",
     "label": "Operationeel beheerder",
-    "picture": "020_stefan.jpg",
+    "picture": "https://github.com/groninge01/resume/blob/master/020_stefan.jpg",
     "email": "stefan.vangroningen@vivat.nl",
     "summary": "I am a Developer Advocate at heart. Every day I work to empower individuals to build awesome things through open source. I hope to pursue a role where I can have high impact on products and developer communities.",
     "location": {
