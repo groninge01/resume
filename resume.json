@@ -4,7 +4,8 @@
     "label": "Operationeel beheerder",
     "picture": "https://github.com/groninge01/resume/blob/master/020_stefan.jpg?raw=true",
     "email": "stefan.vangroningen@vivat.nl",
-    "summary": "",
+	"phone": "&#48;62&#48;1&#48;2464",
+    "summary": " ",
     "location": {
       "city": "Alkmaar",
       "countryCode": "NL",
@@ -33,8 +34,15 @@
   "education": [
     {
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Bedrijfskundig Informatie Management *",
+        "Netwerktechniek en - beheer *",
+		"Projectmanagement / IPMA D *",
+		"Systeemontwikkeling *",
+		"ASL *",
+		"ITIL *",
+		"Procesmanagement *",
+		"WFT Basis *",
+		"IT Architectuur *"
       ]
     }
   ],
@@ -55,6 +63,25 @@
       "keywords": [
         "VMWare ESXi",
         "HP blade & rackmount servers"
+      ]
+    },
+	{
+      "name": "Operating Systems",
+      "level": "Intermediate",
+      "keywords": [
+        "Windows (2008/2012 Server)",
+        "Unix (HPUX, AIX)",
+		"Linux (Red Hat, Suse, Ubuntu)"
+      ]
+    },
+	{
+      "name": "ITIL",
+      "level": "Intermediate",
+      "keywords": [
+        "Incident",
+        "Change",
+		"Configuration",
+		"Problem"
       ]
     }
   ],
@@ -89,12 +116,6 @@
         "Walking",
         "Biking"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available on request.",
-      "reference": "Available on request."
     }
   ]
 }
