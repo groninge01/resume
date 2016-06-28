@@ -35,7 +35,8 @@
   ],
   "education": [
     {
-      "institution": "HBO Leergang Business IT & <br>Management Incompany",
+      "institution": "HBO Business IT & Management",
+	  "studyType": "Incompany leergang",
       "startDate": "2014-01-01",
       "endDate": "2016-09-01",
 	  "courses": [
@@ -93,10 +94,11 @@
       "name": "ITIL",
       "level": "Intermediate",
       "keywords": [
-        "Incident",
-        "Change",
-		"Configuration",
-		"Problem"
+        "Incident Management",
+		"Capacity Management",
+        "Change Management",
+		"Configuration Management",
+		"Problem Management"
       ]
     }
   ],
@@ -114,15 +116,15 @@
     {
       "name": "Reading",
       "keywords": [
-        "Fiction",
-        "Non-fiction"
+        "Fiction (e.g. The New York Times Best Sellers, Project Gutenberg)",
+        "Non-fiction (e.g. see Fiction, on whatever subject interests me)"
       ]
     },
 	{
       "name": "Watching",
       "keywords": [
-        "TV Series",
-        "Movies"
+        "TV Series (e.g. Game of Thrones, Marvel comic spinoffs)",
+        "Documentaries (e.g. 3doc, BBC, Louis Theroux)"
       ]
     },
 	{
