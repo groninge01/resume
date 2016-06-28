@@ -52,8 +52,8 @@
     },
 	{
       "institution": "Other",
-	  "startDate": "2008",
-	  "endDate": "2016",
+	  "startDate": "2008-05-01",
+	  "endDate": "2016-12-31",
       "courses": [
         "vSphere: Install, Configure, Manage - certificate (VCP5-DCV)"
 		
