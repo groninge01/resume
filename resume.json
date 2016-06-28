@@ -53,6 +53,7 @@
 	{
       "institution": "Other",
 	  "startDate": "2008",
+	  "endDate": "2016",
       "courses": [
         "vSphere: Install, Configure, Manage - certificate (VCP5-DCV)"
 		
@@ -75,7 +76,8 @@
       "level": "Intermediate",
       "keywords": [
         "VMWare ESXi",
-        "HP blade & rackmount servers"
+        "HP blade & rackmount servers",
+		"Cloud (Azure)"
       ]
     },
 	{
