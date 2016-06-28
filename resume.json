@@ -35,8 +35,7 @@
   ],
   "education": [
     {
-      "institution": "HBO Leergang Business IT & Management Incompany",
-      "area": "Information Technology",
+      "institution": "HBO Leergang Business IT & <br>Management Incompany",
       "startDate": "2014-01-01",
       "endDate": "2016-09-01",
 	  "courses": [
@@ -53,7 +52,8 @@
     },
 	{
       "institution": "Other",
-	  "courses": [
+	  "startDate": "2008",
+      "courses": [
         "vSphere: Install, Configure, Manage - certificate (VCP5-DCV)"
 		
       ]
