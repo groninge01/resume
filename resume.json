@@ -82,23 +82,21 @@
       ]
     },
 	{
-      "name": "ITIL",
-      "level": "Intermediate",
-      "keywords": [
-        "Incident Management",
-		"Capacity Management",
-        "Change Management",
-		"Configuration Management",
-		"Problem Management"
-      ]
-    },
-	{
       "name": "Operating Systems",
       "level": "Intermediate",
       "keywords": [
         "Windows (2008/2012 Server)",
         "Unix (HPUX, AIX)",
 		"Linux (Red Hat, Suse, Ubuntu)"
+      ]
+    },
+	{
+      "name": "ITIL",
+      "level": "Intermediate",
+      "keywords": [
+        "Incident & Problem Management",
+        "Change Management",
+		"Configuration & Capacity Management"
       ]
     }
   ],
