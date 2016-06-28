@@ -4,8 +4,8 @@
     "label": "Operationeel beheerder",
     "picture": "https://github.com/groninge01/resume/blob/master/020_stefan.jpg?raw=true",
     "email": "stefan.vangroningen@vivat.nl",
-	"phone": "&#48;62&#48;1&#48;2464",
-    "summary": " ",
+	"phone": "0620102464",
+    "summary": "Stefan lives in Alkmaar with his wife Lana and their two daughters, Marit and Bridget. When he first started at Vivat he was part of the Storage & Backup team. After the SNSREAAL split in 2015 he joined the Storage & Server team. He is always curious and looking for new challenges and since the beginning of this year he has fullfilled the role of process controller for Configuration and Capacity Management.",
     "location": {
       "city": "Alkmaar",
       "countryCode": "NL",
@@ -15,7 +15,7 @@
       {
         "network": "LinkedIn",
 		"username": "",
-        "url": "http://www.linkedin.com/in/stefanvangroningen"
+        "url": "http://www.linkedin.com/in/svg"
       }
     ]
   },
@@ -27,22 +27,35 @@
       "startDate": "2008-05-01",
       "summary": "Within the Datacenter & Hosting Services department, I manage, provision and support the server and storage infrastructure components.",
       "highlights": [
-        "experiences"
+        "Participation in the MoveIT project, which involved a physical datacenter move.",
+		"Integration with SNS IT, which involved the migration and consolidation of several storage and backup platforms.",
+		"Participation in building a new server and storage platform for servicing Vivat after the SNSREAAL split."
       ]
     }
   ],
   "education": [
     {
-      "courses": [
-        "Bedrijfskundig Informatie Management *",
-        "Netwerktechniek en - beheer *",
-		"Projectmanagement / IPMA D *",
-		"Systeemontwikkeling *",
-		"ASL *",
-		"ITIL *",
-		"Procesmanagement *",
-		"WFT Basis *",
-		"IT Architectuur *"
+      "institution": "HBO Leergang Business IT & Management Incompany",
+      "area": "Information Technology",
+      "startDate": "2014-01-01",
+      "endDate": "2016-09-01",
+	  "courses": [
+        "Bedrijfskundig Informatie Management",
+        "Netwerktechniek en -beheer",
+		"Projectmanagement / IPMA D - certificate",
+		"Systeemontwikkeling",
+		"ASL Foundations - certificate",
+		"ITIL Foundations - certificate",
+		"Procesmanagement",
+		"WFT Basis - certificate",
+		"IT Architectuur"
+      ]
+    },
+	{
+      "institution": "Other",
+	  "courses": [
+        "vSphere: Install, Configure, Manage - certificate (VCP5-DCV)"
+		
       ]
     }
   ],
