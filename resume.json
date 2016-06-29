@@ -5,7 +5,7 @@
     "picture": "https://github.com/groninge01/resume/blob/master/020_stefan.jpg?raw=true",
     "email": "stefan.vangroningen@vivat.nl",
 	"phone": "0620102464",
-    "summary": "Stefan lives in Alkmaar with his wife Lana and their two daughters, Marit and Bridget. When he first started at Vivat he was part of the Storage & Backup team. After the SNSREAAL split in 2015 he joined the Storage & Server team. He is always curious and looking for new challenges and since the beginning of this year he has fullfilled the role of process controller for Configuration and Capacity Management.",
+    "summary": "Stefan lives in Alkmaar with his wife Lana and their two daughters, Marit and Bridget. When he first started at Vivat he was part of the Storage & Backup team. After the SNSREAAL split in 2015 he joined the Storage & Server team. He is always curious and looking for new challenges and since the beginning of this year he has also fullfilled the role of process controller for Configuration and Capacity Management.",
     "location": {
       "city": "Alkmaar",
       "countryCode": "NL",
@@ -114,21 +114,24 @@
       "name": "Reading",
       "keywords": [
         "Fiction (e.g. The New York Times Best Sellers, Project Gutenberg)",
-        "Non-fiction (e.g. see Fiction, on whatever subject interests me)"
+        "Non-fiction (e.g. see Fiction, on whatever subject interests me)",
+		"Coursera"
       ]
     },
 	{
       "name": "Watching",
       "keywords": [
         "TV Series (e.g. Game of Thrones, Marvel comic spinoffs)",
-        "Documentaries (e.g. 3doc, BBC, Louis Theroux)"
+        "Documentaries (e.g. 3doc, BBC, Louis Theroux)",
+		"Coursera"
       ]
     },
 	{
       "name": "Doing",
       "keywords": [
         "Walking not running :)",
-        "Biking on my fixie"
+        "Biking on my fixie",
+		"Coursera"
       ]
     }
   ]
