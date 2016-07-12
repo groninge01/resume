@@ -70,9 +70,11 @@
       "name": "Storage",
       "level": "Master",
       "keywords": [
-        "VMAX",
-        "VNX",
-		"SAN switches & directors"
+        "EMC VMAX",
+        "EMC VNX",
+        "EMC Centera",
+        "HDS VSP",
+		"Cisco & Brocade SAN switches"
       ]
     },
     {
