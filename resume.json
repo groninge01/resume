@@ -42,12 +42,12 @@
 	  "courses": [
         "Bedrijfskundig Informatie Management",
         "Netwerktechniek en -beheer",
-		"Projectmanagement / IPMA D - certificate",
+		"Projectmanagement / IPMA D - certificate (2014)",
 		"Systeemontwikkeling",
-		"ASL Foundations - certificate",
-		"ITIL Foundations - certificate",
+		"ASL Foundations - certificate (2015)",
+		"ITIL Foundations - certificate (2015)",
 		"Procesmanagement",
-		"WFT Basis - certificate",
+		"WFT Basis - certificate (2015)",
 		"IT Architectuur"
       ]
     },
@@ -56,8 +56,10 @@
 	  "startDate": "2008-05-01",
 	  "endDate": "2016-12-31",
       "courses": [
-        "vSphere: Install, Configure, Manage - certificate (VCP5-DCV)",
-        "NetBackup 7.5 for Windows Administration - certificate"
+        "vSphere: Install, Configure, Manage - certificate (VCP5-DCV) (2014)",
+        "HDS Storage Foundation - certificate (2013)",
+        "NetBackup 7.5 for Windows Administration - certificate (2012)",
+        ""
 		
       ]
     }
