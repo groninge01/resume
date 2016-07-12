@@ -82,9 +82,8 @@
       "level": "Intermediate",
       "keywords": [
         "VMWare ESXi",
-        "HP blade & rackmount servers",
-		"Cloud (Azure)"
-      ]
+        "HP blade & rackmount servers"
+		]
     },
 	{
       "name": "Operating Systems",
@@ -93,6 +92,14 @@
         "Windows (2008/2012 Server)",
         "Unix (HPUX, AIX)",
 		"Linux (Red Hat, Suse, Ubuntu)"
+      ]
+    },
+    {
+      "name": "Cloud Services",
+      "level": "Beginner",
+      "keywords": [
+        "Microsoft Azure",
+        "Amazon Web Services"
       ]
     },
 	{
