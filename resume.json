@@ -5,7 +5,7 @@
     "picture": "https://raw.githubusercontent.com/groninge01/resume/master/020_stefan.jpg",
     "email": "stefan.vangroningen@vivat.nl",
 	"phone": "0620102464",
-    "summary": "Stefan lives in Alkmaar with his wife Lana and their two daughters, Marit and Bridget. When he first started at Vivat he was part of the Storage & Backup team. After the SNSREAAL split in 2015 he joined the Storage & Server team. He is always curious and looking for new challenges and since the beginning of this year he has also fullfilled the role of process controller for Configuration and Capacity Management.",
+    "summary": "Stefan was born in Haarlem but raised in Alkmaar. He is still living there with his wife Lana and their two daughters, Marit and Bridget. Stefan started his IT career as a Service Desk operator. He then became a Unix administrator whose task it also was to manage the fibre attached storage and backup infrastructure. Storage Area Networks have since been Stefan's main focus but he still remains curious and is always on the lookout for new challenges.",
     "location": {
       "city": "Alkmaar",
       "countryCode": "NL",
@@ -25,11 +25,11 @@
       "position": "Operationeel Beheerder",
       "website": "http://www.vivat.nl",
       "startDate": "2008-05-01",
-      "summary": "Within the Datacenter & Hosting Services department, I manage, provision and support the server and storage infrastructure components.",
+      "summary": "Within the Datacenter & Hosting Services department, Stefan manages, provisions and supports the server and storage infrastructure components. He is also acting as a controller in the Configuration & Capacity processes.",
       "highlights": [
-        "Participation in the MoveIT project, which involved a physical datacenter move.",
-		"Integration with SNS IT, which involved the migration and consolidation of several storage and backup platforms.",
-		"Participation in building a new server and storage platform for servicing Vivat after the SNSREAAL split."
+        "Participated in building a new server and storage platform for servicing Vivat after the SNSREAAL split.",
+        "Created a dashboard which aggregates all daily In Control messages in to one web page.",
+		"Migrated the CMDB to the new Service Management tool as part of the Service Now project."
       ]
     }
   ],
