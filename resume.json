@@ -118,8 +118,7 @@
       "name": "Reading",
       "keywords": [
         "Fiction",
-        "Non-fiction",
-		"Coursera"
+        "Non-fiction"
       ]
     },
 	{
@@ -127,7 +126,7 @@
       "keywords": [
         "TV Series",
         "Documentaries",
-		"Coursera"
+        "Coursera"
       ]
     },
 	{
@@ -135,8 +134,8 @@
       "keywords": [
         "Walking",
         "Biking",
-		"Coursera"
-      ]
+        "Kiteboarding"
+       ]
     }
   ]
 }
