@@ -25,7 +25,7 @@
       "position": "Operationeel Beheerder",
       "website": "http://www.vivat.nl",
       "startDate": "2008-05-01",
-      "summary": "Within the Datacenter & Hosting Services department, Stefan manages, provisions and supports the server and storage infrastructure components. He is also acting as a controller in the Configuration & Capacity processes.",
+      "summary": "Within the Datacenter & Hosting Services department, Stefan manages, provisions and supports the server and storage infrastructure components. He is also acting as a controller in support of the Configuration & Capacity processes.",
       "highlights": [
         "Participated in building a new server and storage platform for servicing Vivat after the SNSREAAL split.",
         "Created a dashboard which aggregates all daily In Control messages in to one web page.",
@@ -56,7 +56,8 @@
 	  "startDate": "2008-05-01",
 	  "endDate": "2016-12-31",
       "courses": [
-        "vSphere: Install, Configure, Manage - certificate (VCP5-DCV)"
+        "vSphere: Install, Configure, Manage - certificate (VCP5-DCV)",
+        "NetBackup 7.5 for Windows Administration - certificate"
 		
       ]
     }
