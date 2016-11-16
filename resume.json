@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Stefan van Groningen",
-    "label": "Operationeel beheerder",
+    "label": "DevOps engineer",
     "picture": "https://raw.githubusercontent.com/groninge01/resume/master/020_stefan.jpg",
     "email": "groninge@hotmail.com",
 	"phone": "Available on request",
@@ -22,13 +22,13 @@
   "work": [
     {
       "company": "Vivat",
-      "position": "Operationeel Beheerder",
+      "position": "DevOps engineer",
       "website": "http://www.vivat.nl",
       "startDate": "2008-05-01",
       "summary": "Within the Datacenter & Hosting Services department, Stefan manages, provisions and supports the server and storage infrastructure components. He is also acting as a controller in support of the Configuration & Capacity processes.",
       "highlights": [
         "Participated in building a new server and storage platform for servicing Vivat after the SNSREAAL split.",
-        "Created a dashboard which aggregates nearly all daily InControl messages in to one centrally located web page.",
+        "Created a dashboard using PHP, which aggregates nearly all daily InControl messages in to a SPA.",
 		"Migrated the CMDB to the new Service Management tool as part of the Service Now project."
       ]
     }
@@ -40,15 +40,15 @@
       "startDate": "2014-01-01",
       "endDate": "2016-09-01",
 	  "courses": [
-        "Bedrijfskundig Informatie Management",
-        "Netwerktechniek en -beheer",
+        "Bedrijfskundig Informatie Management - certificate (2014)",
+        "Netwerktechniek en -beheer - certificate (2014)",
 		"Projectmanagement / IPMA D - certificate (2014)",
-		"Systeemontwikkeling",
+		"Systeemontwikkeling - certificate (2014)",
 		"ASL Foundations - certificate (2015)",
 		"ITIL Foundations - certificate (2015)",
-		"Procesmanagement",
+		"Procesmanagement - certificate (2015)",
 		"WFT Basis - certificate (2015)",
-		"IT Architectuur"
+		"IT Architectuur - certificate (2015)"
       ]
     },
 	{
@@ -90,8 +90,8 @@
       "level": "Intermediate",
       "keywords": [
         "Windows (2008/2012 Server)",
-        "Unix (HPUX, AIX)",
-		"Linux (Red Hat, Suse, Ubuntu)"
+        "Unix (HPUX, AIX, Solaris)",
+		"Linux (Red Hat, Suse, Ubuntu, Alpine)"
       ]
     },
     {
@@ -109,6 +109,16 @@
       "keywords": [
         "Microsoft Azure",
         "Amazon Web Services"
+      ]
+    },
+	{
+      "name": "Coding",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+		"PHP",
+		"Javascript"
       ]
     }
   ],
@@ -143,7 +153,7 @@
       "keywords": [
         "Walking",
         "Biking",
-        "Kiteboarding"
+        "Messing about with RPi's, Docker, nginx, MariaDB, Wordpress and whatever else I can find"
        ]
     }
   ]
