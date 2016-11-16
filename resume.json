@@ -112,13 +112,19 @@
       ]
     },
 	{
-      "name": "Coding",
+      "name": "Geek",
       "level": "Beginner",
       "keywords": [
-        "HTML",
+        "RPi1/2/3",
+		"HTML",
         "CSS",
 		"PHP",
-		"Javascript"
+		"Javascript",
+		"Docker",
+		"nginx",
+		"httpd",
+		"Wordpress",
+		"MariaDB"
       ]
     }
   ],
@@ -153,7 +159,7 @@
       "keywords": [
         "Walking",
         "Biking",
-        "Messing about with RPi's, Docker, nginx, MariaDB, Wordpress and whatever else I can find"
+		"Free Code Camp"
        ]
     }
   ]
