@@ -108,11 +108,12 @@
       "level": "Beginner",
       "keywords": [
         "Microsoft Azure",
+		"Google App Engine",
         "Amazon Web Services"
       ]
     },
 	{
-      "name": "Geek",
+      "name": "Web",
       "level": "Beginner",
       "keywords": [
         "RPi1/2/3",
@@ -124,7 +125,8 @@
 		"nginx",
 		"httpd",
 		"Wordpress",
-		"MariaDB"
+		"MariaDB",
+		"Node"
       ]
     }
   ],
