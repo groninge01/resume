@@ -91,7 +91,7 @@
       "keywords": [
         "Windows (2008/2012 Server)",
         "Unix (HPUX, AIX, Solaris)",
-		"Linux (Red Hat, Suse, Ubuntu, Alpine)"
+		"Linux (Red Hat, Suse, Ubuntu, Debian, Alpine)"
       ]
     },
     {
@@ -120,13 +120,12 @@
 		"HTML",
         "CSS",
 		"PHP",
-		"Javascript",
+		"JavaScript",
 		"Docker",
 		"nginx",
 		"httpd",
 		"Wordpress",
-		"MariaDB",
-		"Node"
+		"MariaDB"
       ]
     }
   ],
@@ -160,8 +159,8 @@
       "name": "Doing",
       "keywords": [
         "Walking",
-        "Biking",
-		"Free Code Camp"
+        "Calisthenics",
+		"CS50"
        ]
     }
   ]
